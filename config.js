@@ -1,0 +1,1 @@
+window.JAYNOVA_CONFIG = Object.freeze({"analyticsUrl":"https://yattojbkdupvahegedzv.supabase.co/functions/v1/jaynova-download","publishableKey":"sb_publishable_DMlSiHW4jUwF8yHpA3vowA_VeZi8OIS","privacyVersion":"2026-11-21"});
